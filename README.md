@@ -106,7 +106,5 @@ npm run dev
 
 | Giriş / Login | Genel Bakış / Dashboard | Para Transferi / Transfer |
 | :---: | :---: | :---: |
-| [Login View] <img width="1868" height="906" alt="Ekran Görüntüsü (508)" src="https://github.com/user-attachments/assets/deab2453-01b4-476d-8c6c-2d0748d22100" />
- | [Dashboard View]<img width="1868" height="912" alt="Ekran Görüntüsü (509)" src="https://github.com/user-attachments/assets/92e32509-9229-4d3d-99e1-b38ecf4adc3f" />
- |[Transfer View] <img width="1866" height="907" alt="Ekran Görüntüsü (510)" src="https://github.com/user-attachments/assets/7ba4697f-0eb2-4b6d-9201-c08d77c3add5" />
+| <img src="https://github.com/user-attachments/assets/deab2453-01b4-476d-8c6c-2d0748d22100" width="100%" alt="Giriş Ekranı" /> | <img src="https://github.com/user-attachments/assets/92e32509-9229-4d3d-99e1-b38ecf4adc3f" width="100%" alt="Genel Bakış" /> | <img src="https://github.com/user-attachments/assets/7ba4697f-0eb2-4b6d-9201-c08d77c3add5" width="100%" alt="Para Transferi" /> |
 
